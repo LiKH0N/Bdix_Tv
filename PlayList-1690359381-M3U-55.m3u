@@ -1,0 +1,170 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/andpictures-hd.jpg" group-title="Hindi", (ONLINE) & Pictures HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTqXAUUi77atJVj8yKeHRtkDA6oNoF8g2TcdRnfZD99IW2SLda5t0NmZamf0tbBkQYdDQqZ2cpHuZHeEkxrXA0aQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/colors-tv-hd.jpg" group-title="Hindi", (ONLINE) Colors HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTYQvgXRTWgz6yk7y3RrBa5lzxTkVMDyaFYYE1hNtfrSI68hJ2QaKSjB1PDXQZOByb53xEs6flCJJ179uJH1NUbg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/zeecinemahd.jpg" group-title="Hindi", (ONLINE) Zee Cinema HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTuobL-ItTRia2CoDreJXQqdz9AEpYkYvZf6GzyVbJHll5KIdKrzpYX7Pbb7oPjaukz3op625T-WkNSbmqKwlewg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/starplus.jpg" group-title="Hindi", (ONLINE) Star Plus HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTO1y3emS65myflSvqbDiAplPie-v_vC-iAJM6SwQnJuGq0RqtPWuJMAFJ7UU28o091CKKpueAo3qHlxWs_Ovfgg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/colorscineplex.jpg" group-title="Hindi", (ONLINE) Colors Cineplex
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTOypXH_GvNPxxO7vK2s-3cFQ8q4mVFo6mUg0k0x_qgL6wnWhbVlRxSV0lrcbyilC07LgPvDJyugZGByCOyN43aQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sonyen.png" group-title="Hindi", (ONLINE) Sony HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTAkmAgaoQoxjDSdp7C5G4lSKx0Dt6olYzI1p-Iqxsl0pAyIidCazlsnx1PfsHBHu6yUTXgBqIDmVh2qbvY85sIw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sony-maxhd.jpg" group-title="Hindi", (ONLINE) Sony MAX HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTT3s6z3Q-yuMAgNqeoVa_rnV8P0csJoexXczcrhT3VHJb4CBx9WEla9EMF2NotWaE1AZD_HLXF1-Iy1VJeU5zfew==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/zeetv.png" group-title="Hindi", (ONLINE) Zee TV HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTHxJLG00fIvqgXzNnIUTwbGY7g5BYhUmrWhbGPRWHxqdKR0Ch1sB7aqrlhoPQYhiHEyEpPQimBS8Bfyo-QezEmg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/stargold.jpg" group-title="Hindi", (ONLINE) Star GOLD Thrills
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTcCG3zpYmAtrrvfSlRgsuZ83BwxjI6RZszdSRxUqriBV9WAq2h1Qsyj73ppWxGw9iqPrMGUmf9p47ePGbQbw2uw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/9xm.png" group-title="Hindi", (ONLINE) 9XM
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTIW08ucuM3m51s73JBr0ibw73ZveuhVRJEHqzUF6CuyC1vGud9NKOpaW4WNFasfDyLnJcpQmks3lZYrt9XpTbGw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sonypixhd.jpg" group-title="English", (ONLINE) Sony PIX HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTQaxk4PaNGn9JwdSK1PY8DxXu9JyHOCIfCUjMEyWQ_SiivCGEGJK1R-PfcrdBzRXw6OVoGE3AYo9JvQP4CAhiBQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/movies-now.jpg" group-title="English", (ONLINE) Movies Now HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTLjikLK0u9lCbfse2asrsxOdq-cgkkBk1d5-d1icE3ewpvkyGh5eR-Kzntr6EkBPx_mlio7egzYYf_MszqbZqNw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/starmovies.jpg" group-title="English", (ONLINE) Star Movies HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTWpSq261pg16YHg3h9M_RkFdjYcrOy_JPF6ZW3WuBe56-JUWTwZEGTnA-psvGFp434dObcgfH4Iia2fGHcFwrUA==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/bbcearth.jpg" group-title="English", (ONLINE) BBC Earth HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTc5Hh-Gux6tV0cgLbkZucwHfgzjeJhikCAgZgjS4JNpJbykFU4qSW1MW-qnIdYt0fBwD1gMhElc-FfhCAVRvNNg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/mn+.jpg" group-title="English", (ONLINE) MN+
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTKV2lNqrbh-mxHquIyqB2snzD49O0ukvBBZBFsuM0aE5UFtRNLkBZcHvgNgcNNr1Ff3WbNjhbyzkeuS5BYmxKpg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/animalplanent.jpg" group-title="English", (ONLINE) Animal Planet HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTEI7_rdsZeDgXBoBVZa9wXCGcg_dV2K1Syi3BdweCTlumY1vjI9_1eyKzocTO5f4y0O_Ke8RFtDRsmh5zOZ5y-Q==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/dis.png" group-title="English", (ONLINE) Discovery HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTH8H7UwqA35NHDMG6i6fS0g4jbJwzjaJWoyEiCcqD4J_aKY-_WyI9ExewuOzEH0Ox0mRs0--ELV8JNHr7WcUi-g==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/Nat_Geo_HD.png" group-title="English", (ONLINE) National Geographic HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTvgjWi7s17ghuE3UQk74MXNm1Ve6STlZ8w1Cja5FpmEK3ydqf8a8a_efiZldxqu1zfefxwHLI4tKFDUnNT0vHtw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/wild.png" group-title="English", (ONLINE) National Geographic WILD HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTEM2JBVI1TT9JVx9wgSJ-qrCB-r0hsPbtZn8lIBeaAFKMUfxVDilisx6cBWf12yRFiGXyji_ll9QEmU_gmhA34Q==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/romedy.png" group-title="English", (ONLINE) Romedy NOW
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTsWhfkcR6isAeJ9b2-jvS0sTHu0GIuiK3WTATCudPbt82eb1sVsctrlWLQqiEBgoHoqXNawi5hkK0Y8RVUFjoqQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/mnx-hd.jpg" group-title="English", (ONLINE) MNX HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTl3sF-nfUlPhTqgzW1EEYyfYE6RZWTY0iEEZdS_B7Zj3FnqZVhumYMTIyx-sZPM5HOd9RffjNLLyPppLeUMzvsA==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/bbcworld.jpg" group-title="English", (ONLINE) BBC News
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTS7XZAlGHC3AoS5uWWfwibetv-l1YiGd2_DzN9LucfmZ7GXwp-WPytQK1u3tmErmFQlwjiKzC-07vBj4MABU1ng==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sony-5.png" group-title="Sports", (ONLINE) Sony SIX HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTC6njbwcIbwhvHw_fsO9UquAxM5oK3V3W209qrAWIbWM99D0qB_D35ViDJP9VYcew2L9EWQj-jcpMA5QB4a78UQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/star_sports3.jpg" group-title="Sports", (ONLINE) Star Sports 3
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTxEBTThfsmLUCiBrR3nkBrgsN5qur6OmuTFAjG4h2wyaqYCGEf-5YbqenYQLixP1wP14FsfS11SjEiYwCrzY3MQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/Star_Sports_Select_1_HD.jpg" group-title="Sports", (ONLINE) Star Sports Select 1 HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTXfVMap-EUPdBJn4vRq1m-6EqrG1xaqQ8THjObF9fHdgUWbkBNwAd6syKeemNCq5gDY6p_2SRceEf_-3NQY3LBKvNsVE3ZS5dV7jwHBhsuQw=/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/stersports1hd.jpg" group-title="Sports", (ONLINE) Star Sports 1 HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTTDzhnQkLYhOaoJAeIDJ-vBtsUxh_KJlPg6j7uVhWYuozq2Arna1Sq-xiFGMWwCDnJboUvU_rmysO6PjH8mP_Og==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/ster-sport-2hd.png" group-title="Sports", (ONLINE) Star Sports 2 HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTYH8x6D8kifdtFgugzYenEDs4bSAxJCzjVxED40fWeQqRXqIYun87GYTlxhgpiVOXprfDkW6R3oJHVILEqmv1TQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sony-3.png" group-title="Sports", (ONLINE) Sony TEN 3 HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTS6lnNB1xqkrmhnRjrv02fEYzmpK15lekSBMy7wHUxPzbs9266KpupFhOMyX1RSvDzZnHVRizPsf9UuKExLBh_g==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/select2.jpg" group-title="Sports", (ONLINE) Star Sports Select 2 HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTDDdCoDzb-jygRawAjGHN6pHqPm8Z5qNDKH7-YfA25_TwEZIvRn6hFE680cxYn2enWq9_VZGmOA1vI9LA-qhwdA==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sony-2.png" group-title="Sports", (ONLINE) Sony TEN 2 HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTjdXR_f1w5ualMoYJw1b1iWzVQsryHPTsjsueUaSPqh8gFw_J0-AcNaDDv-N4Qr4jkhSw7MYM408nv6dnN1BLZw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sony-1.png" group-title="Sports", (ONLINE) Sony TEN 1 HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTT4SDLmRgmuGFXC9eUbSMrr3n-Y2Bb1jbdIqsNJx5luiK_jAlTiNaNLIVUsPbAAp23gSZYfbIHtBX4ksm-dIc4HQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/PTV_Sports.png" group-title="Sports", (ONLINE) PTV
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTT0yrMoZ2pVywsDHJneiBaWKXczGJJadZeJTesCUscz8CULzJkXdsZyJ3dOT_Ts2tQ2M39scz899PMywme9qzZIg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/18.png" group-title="Sports", (ONLINE) Sports 18 HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTYdFJCzIdJxqLJG3muLEACDK3FQtpCKyPxEj9sbzsirxEoU9rxMximUgw4RyhbAvDMpn1okfaTMbHUKChH03NCQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sunbangla.jpg" group-title="Bangla", (ONLINE) Sun Bangla
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTbbU8njPdPDLOukngaMhbx4mxg2iO5UZ7vz4_UDImpTyYkfJNYZw87gND2ISnGCvRQGVPK9AZ38r_dobcUjF8Vw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/indepen.png" group-title="Bangla", (ONLINE) Independent Television
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTToFvS59_cgA3bwn_msfNhKc-MIWspLGJG-4UxUZVUz4Wnb02RtKxW0YeqcnEmG_6j1fz2-1TE7e1klLLJ7Gb3Yg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/Sony_Aath.png" group-title="Bangla", (ONLINE) Sony Aath
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTmDc9ozON43mnqDoVRrVEntUAMrsYDu1nmdMivHhehI5H1Qfk6M_2ohp_DU5TFeI2PSGHDa5rXD_M43pqaInF2w==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/gtv.jpg" group-title="Bangla", (ONLINE) Gazi TV HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTGdiK1S5RwOqMNlwD48EhWiop2t8Zg_AqBDebYUAj-sj8qHSCYRZ0FrPx7-xHppQJdI9OGM7tuauPFbqd2Q-Wzw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/travelxphd.jpg" group-title="Bangla", (ONLINE) Travel XP
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTDWBv0P1t--7FVh21nGxhLo-98a9eBjgt9JhlmMAMkuT36B9mg7pnrV6qHhf2ZBpHi2tk4w_CVzH3pERGI7NWvQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/71.jpg" group-title="Bangla", (ONLINE) Ekattor TV HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTnS_4fYkqtM-iOlyr0qleCVvJLE9bcBb8b0x3kLt60kwO53XQ_VRnsi27X37u9cm4TnsK0wjBlAciC1pHLyOCtQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/channeli.jpg" group-title="Bangla", (ONLINE) Channel I
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTRLskP1tehe8Ny_vfgSdaKuJGjYRcddPw5zXfdLZ9OTp4PxczhQ21-EcGXGcHmNrCnrzOtTaAsgCJuMdEClUNZw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/maasranga.jpg" group-title="Bangla", (ONLINE) Maasranga TV
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTtGfp2B_4ilae6LUIDkkrVcJC2OQIavD-XxwtdIdSGSVs6-6zL3z7udnQzny7HfMxloCuYFDX_ZCLhHK3y6iYbA==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/somoytv.jpg" group-title="Bangla", (ONLINE) Somoy TV
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTf4Nevglo6MclCNOwoM0OYb5qN0ies3g8kMKC8yQPJFY_SYPOjtcNE_QdIgfZVIGXEfmouyeAD8GswB5yebzCiA==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/colors-tv-hd.jpg" group-title="Hindi", (ONLINE) Colors HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTYQvgXRTWgz6yk7y3RrBa5lzxTkVMDyaFYYE1hNtfrSI68hJ2QaKSjB1PDXQZOByb53xEs6flCJJ179uJH1NUbg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/zeecinemahd.jpg" group-title="Hindi", (ONLINE) Zee Cinema HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTuobL-ItTRia2CoDreJXQqdz9AEpYkYvZf6GzyVbJHll5KIdKrzpYX7Pbb7oPjaukz3op625T-WkNSbmqKwlewg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/starplus.jpg" group-title="Hindi", (ONLINE) Star Plus HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTO1y3emS65myflSvqbDiAplPie-v_vC-iAJM6SwQnJuGq0RqtPWuJMAFJ7UU28o091CKKpueAo3qHlxWs_Ovfgg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/colorscineplex.jpg" group-title="Hindi", (ONLINE) Colors Cineplex
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTOypXH_GvNPxxO7vK2s-3cFQ8q4mVFo6mUg0k0x_qgL6wnWhbVlRxSV0lrcbyilC07LgPvDJyugZGByCOyN43aQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sonyen.png" group-title="Hindi", (ONLINE) Sony HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTAkmAgaoQoxjDSdp7C5G4lSKx0Dt6olYzI1p-Iqxsl0pAyIidCazlsnx1PfsHBHu6yUTXgBqIDmVh2qbvY85sIw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sony-maxhd.jpg" group-title="Hindi", (ONLINE) Sony MAX HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTT3s6z3Q-yuMAgNqeoVa_rnV8P0csJoexXczcrhT3VHJb4CBx9WEla9EMF2NotWaE1AZD_HLXF1-Iy1VJeU5zfew==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/zeetv.png" group-title="Hindi", (ONLINE) Zee TV HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTHxJLG00fIvqgXzNnIUTwbGY7g5BYhUmrWhbGPRWHxqdKR0Ch1sB7aqrlhoPQYhiHEyEpPQimBS8Bfyo-QezEmg==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/stargold.jpg" group-title="Hindi", (ONLINE) Star GOLD Thrills
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTcCG3zpYmAtrrvfSlRgsuZ83BwxjI6RZszdSRxUqriBV9WAq2h1Qsyj73ppWxGw9iqPrMGUmf9p47ePGbQbw2uw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/9xm.png" group-title="Hindi", (ONLINE) 9XM
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTIW08ucuM3m51s73JBr0ibw73ZveuhVRJEHqzUF6CuyC1vGud9NKOpaW4WNFasfDyLnJcpQmks3lZYrt9XpTbGw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/sonypixhd.jpg" group-title="English", (ONLINE) Sony PIX HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTQaxk4PaNGn9JwdSK1PY8DxXu9JyHOCIfCUjMEyWQ_SiivCGEGJK1R-PfcrdBzRXw6OVoGE3AYo9JvQP4CAhiBQ==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/movies-now.jpg" group-title="English", (ONLINE) Movies Now HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTLjikLK0u9lCbfse2asrsxOdq-cgkkBk1d5-d1icE3ewpvkyGh5eR-Kzntr6EkBPx_mlio7egzYYf_MszqbZqNw==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/starmovies.jpg" group-title="English", (ONLINE) Star Movies HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTWpSq261pg16YHg3h9M_RkFdjYcrOy_JPF6ZW3WuBe56-JUWTwZEGTnA-psvGFp434dObcgfH4Iia2fGHcFwrUA==/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/bbcearth.jpg" group-title="English", (ONLINE) BBC Earth HD
+http://103.209.173.14:9999/crafthub/gAAAAABkwNTTc5Hh-Gux6tV0cgLbkZucwHfgzjeJhikCAgZgjS4JNpJbykFU4qSW1MW-qnIdYt0fBwD1gMhElc-FfhCAVRvNNg==/index.m3u8
+
