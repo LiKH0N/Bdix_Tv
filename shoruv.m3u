@@ -3,5 +3,26 @@
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Ekushey TV
+http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Somoy TV
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Ekattor TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Sports", T Sports HD
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Sports", PTV Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Sports", Star Sports 1 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Sports", DBC News
+http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Sports", RTV
+http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
