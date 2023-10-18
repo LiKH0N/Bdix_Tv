@@ -45,9 +45,26 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/53d280e5-f37b-433d-938d-0839303b8857.jpg" group-title="Bangla", Channel i HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Information", NAT GEO HD
+http://103.199.155.14:8082/Nat-Geo/tracks-v1a1/mono.m3u8?
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Information", DISCOVERY
+http://103.199.155.14:8082/Discovery/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Song", Sangeet Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony Max
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony Max HD
+http://103.199.155.14:8082/Sony-MAX-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony TV HD
+http://103.199.155.14:8082/Sony-Hd-Live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony PIX HD
+http://103.199.155.14:8082/Sony-PIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Star Movies HD
+http://103.199.155.14:8082/Star-Movies/index.m3u8
