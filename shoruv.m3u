@@ -42,6 +42,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/de0277e1-fcab-4a84-8d1a-9dcdbdac7d05/4417b933-8427-4f69-ab35-2a8d63ff29a0.jpg" group-title="Bangla", Asian TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/53d280e5-f37b-433d-938d-0839303b8857.jpg" group-title="Bangla", Channel i HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Song", Sangeet Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/index.m3u8
 
