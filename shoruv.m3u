@@ -33,6 +33,18 @@ http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Deepto TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Channel 24 HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Boishaki TV HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Asian TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Song", Sangeet Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony Max
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
 
