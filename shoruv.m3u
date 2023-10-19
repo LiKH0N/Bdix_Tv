@@ -27,59 +27,59 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Sony_Sports_Network.png/220px-Sony_Sports_Network.png" group-title="Sports", Sony Ten 5 HD
 http://103.199.155.14:8082/Sony-Ten-5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/s-h1mrj91652458969950.jpg" group-title="Bangla", DBC News HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png" group-title="Bangla", DBC News HD
 http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", RTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/240px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV HD
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Deepto TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangla", Deepto TV HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Bangla", Channel 24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/200px-Channel24logo.svg.png" group-title="Bangla", Channel 24 HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a2dc3ab-3f2e-4508-93e6-0f76fe090228/d31138fa-ab2e-40d5-94e7-6e806382d74d.jpg" group-title="Bangla", Boishaki TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png" group-title="Bangla", Boishaki TV HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/de0277e1-fcab-4a84-8d1a-9dcdbdac7d05/4417b933-8427-4f69-ab35-2a8d63ff29a0.jpg" group-title="Bangla", Asian TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/100px-Asian_TV_Logo.svg.png" group-title="Bangla", Asian TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/53d280e5-f37b-433d-938d-0839303b8857.jpg" group-title="Bangla", Channel i HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" group-title="Bangla", Channel i HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/53d280e5-f37b-433d-938d-0839303b8857.jpg" group-title="Bangla", MY TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mytv_Bangladesh_Logo.png/260px-Mytv_Bangladesh_Logo.png" group-title="Bangla", MY TV HD
 http://103.199.155.14:8082/My-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/53d280e5-f37b-433d-938d-0839303b8857.jpg" group-title="Bangla", NEWS 24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangla", NEWS 24 HD
 http://103.199.155.14:8082/News-24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/53d280e5-f37b-433d-938d-0839303b8857.jpg" group-title="Bangla", BTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/220px-Bangladesh_Television_Logo.svg.png" group-title="Bangla", BTV HD
 http://103.199.155.14:8082/BTV-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/53d280e5-f37b-433d-938d-0839303b8857.jpg" group-title="Bangla", Nagorik TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV HD
 http://103.199.155.14:8082/Nagorik-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Information", NAT GEO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/180px-National-Geographic-Logo.svg.png" group-title="Information", NAT GEO HD
 http://103.199.155.14:8082/Nat-Geo/tracks-v1a1/mono.m3u8?
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Information", DISCOVERY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Discovery_HD_logo_2009.png/200px-Discovery_HD_logo_2009.png" group-title="Information", DISCOVERY
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery
 
 #EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Song", Sangeet Bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony Max
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/150px-Sony_Max_new.png" group-title="Movies", Sony Max
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony Max HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/150px-Sony_Max_new.png" group-title="Movies", Sony Max HD
 http://103.199.155.14:8082/Sony-MAX-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Sony_TV_new.png/150px-Sony_TV_new.png" group-title="Movies", Sony TV HD
 http://103.199.155.14:8082/Sony-Hd-Live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Sony PIX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/180px-Sony_Pix_new.png" group-title="Movies", Sony PIX HD
 http://103.199.155.14:8082/Sony-PIX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/096fd070-64a1-4efc-8d6b-ab5b1df14c2e/bf7f44e1-889b-42e1-9072-23396f9aa069.jpg" group-title="Movies", Star Movies HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/220px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies HD
 http://103.199.155.14:8082/Star-Movies/index.m3u8
